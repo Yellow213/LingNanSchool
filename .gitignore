@@ -28,12 +28,10 @@ hs_err_pid*
 # idea ignore
 .idea/
 *.ipr
-*.iml
 *.iws
 target
 
 # temp ignore
-*.log
 *.cache
 *.diff
 *.patch
